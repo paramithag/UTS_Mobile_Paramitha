@@ -4,8 +4,7 @@
 - Aplikasi tentang sejarah penjajahan indonesia
 
 ### Screenshot
-[g1](https://user-images.githubusercontent.com/57141309/137374936-3cf008fd-adbc-431b-be2e-bc12b30a954b.jpg)!
-[g2](https://user-images.githubusercontent.com/57141309/137374954-d7ca81dd-4ba8-4dd0-b806-b75c2706e14d.jpg)
+[g1](https://user-images.githubusercontent.com/57141309/137374936-3cf008fd-adbc-431b-be2e-bc12b30a954b.jpg)![g2](https://user-images.githubusercontent.com/57141309/137374954-d7ca81dd-4ba8-4dd0-b806-b75c2706e14d.jpg)
 
 ### Built With
 - Android studio, dart, flutter
